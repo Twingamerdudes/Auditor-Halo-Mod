@@ -41,9 +41,6 @@ function Start()
     if PlayerName == "Auditor Halo " then
         IsAuditor = true
     end
-    ChangeProperty(Player, {"Auditor Halo"}, "character")
-    --Notice("test")
-    --AddTextToUI("sus", "BlackOpsOne-Regular", GetProperty(Player, "position"))
 end
 
 function DestroyObject(objname)
