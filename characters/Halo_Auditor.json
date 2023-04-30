@@ -1,0 +1,187 @@
+{
+  "FullName": "Auditor Halo",
+  "ShortName": "Auditor",
+  "Title": "Employer",
+  "Description": "I don't think he should have that halo",
+  "DefaultFaction": 14,
+  "Level": 50,
+  "TacBar": 0.0,
+  "Scale": 1.0,
+  "Speed": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 1.0
+  },
+  "Speed_SprintBonus": 0.0,
+  "Toughness": 10,
+  "Health": 100,
+  "CorpusBlocks": [
+    "Auditor",
+    "Auditor",
+    "Auditor"
+  ],
+  "Attributes": [
+    50,
+    50,
+    50,
+    50
+  ],
+  "ArmorHead": {
+    "x": 6.0,
+    "y": 75.0
+  },
+  "ArmorBody": {
+    "x": 6.0,
+    "y": 75.0
+  },
+  "MyRef": "Employer_Auditor",
+  "AlternateParts": [],
+  "SwapMaterials": [
+    {
+      "parts": [
+        0
+      ],
+      "materials": [
+        "mat_Auditor_Head"
+      ]
+    },
+    {
+      "parts": [
+        1
+      ],
+      "materials": [
+        "mat_black_auditor"
+      ]
+    },
+    {
+      "parts": [
+        2
+      ],
+      "materials": [
+        "mat_black_auditor"
+      ]
+    },
+    {
+      "parts": [
+        3
+      ],
+      "materials": [
+        "mat_black_auditor"
+      ]
+    },
+    {
+      "parts": [
+        4
+      ],
+      "materials": [
+        "mat_black_auditor"
+      ]
+    },
+    {
+      "parts": [
+        5
+      ],
+      "materials": [
+        "mat_black_auditor"
+      ]
+    }
+  ],
+  "AnimationSet": "Employer",
+  "Executions_Offensive": [],
+  "Executions_Defensive": [],
+  "VoiceSet": "0_Empty",
+  "TextChatter": "0_Empty",
+  "Blood": {
+    "r": 1.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "BloodSpurt": "Employer_Auditor",
+  "VariableTint": [],
+  "VariableTint2": [],
+  "DefaultArmor": [
+    
+  ],
+  "VariableArmor": [],
+  "Uniform": [
+    {
+      "ArmorPicks": {
+        "Armor": [
+          "Hat_JebHalo"
+        ]
+      },
+      "Tint": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Tint2": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "Glass": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "AltMaterialIndex": 0,
+      "AltMeshIndex": 0
+    }
+  ],
+  "CountWornArmor": 0,
+  "Fist": "U_Fist",
+  "Kick": "None",
+  "Headbutt": "None",
+  "SlamExplode": "None",
+  "WeaponPreference": 100,
+  "ItemGenres": [],
+  "DefaultPrimary": "M_Hook",
+  "DefaultSecondary": "None",
+  "DefaultSidearm": "None",
+  "UnarmedReplacement": "None",
+  "DefaultLoadout": "None",
+  "Behaviors": [
+    5,
+    6,
+    21,
+    55
+  ],
+  "Traits": [
+    47,
+    52
+  ],
+  "Vocations": [
+    101
+  ],
+  "Skills": [
+    10,
+    30,
+    31,
+    20,
+    21,
+    22,
+    243,
+    249,
+    445,
+    448
+  ],
+  "Icons": [
+		"corpus/corpus_auditory"
+	],
+  "Groups": [
+    "Protag_Base"
+  ],
+  "RemoveSkills": [],
+  "FallLand": "Employer_Auditor",
+  "LifeEffect": "Employer_Auditor",
+  "DeathEffect": "Employer_Auditor",
+  "TeleportEffect": "Employer_Auditor",
+  "Footprint": "Employer_Auditor",
+  "DeactivateTime": 60,
+  "FlankMe": 0
+}
