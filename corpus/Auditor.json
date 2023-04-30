@@ -1,0 +1,27 @@
+{
+  "FullName": "Auditor Halo",
+  "ShortName": "Auditor",
+  "Description": "Maybe he shouldn't have that halo...",
+  "BorderColor": {
+    "r": 0.0,
+    "g": 0.0,
+    "b": 0.0,
+    "a": 1.0
+  },
+  "Icons": [
+    "corpus/Corpus_Auditory"
+  ],
+  "DamageMultiplier": 1.0,
+  "myBuffs": [
+    {
+      "Name": "Auditor's Halo",
+      "Description": "The halo makes him good with melee",
+      "Type": 102,
+      "Amount": 5.0,
+      "amPercent": 0,
+      "markAsGood": 0
+    }
+  ],
+  "DeathEvents": [],
+  "BonusTraits": []
+}
